@@ -1,2 +1,2 @@
 # HL2AC
-Welcome to the server branch! I will host all of the server stuff here.
+Welcome to the game branch! I will host all of the game stuff here.
