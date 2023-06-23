@@ -1,8 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/Humans/Male/mouth"
-	"$model" 1
-//	"$clientshader" "MouthShader"
-//	"$selfillum" 1
-	"$halflambert" 1
-}

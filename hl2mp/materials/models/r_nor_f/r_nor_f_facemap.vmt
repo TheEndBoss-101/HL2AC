@@ -1,5 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" 	"models\r_nor_f\r_nor_f_facemap"
-	"$halflambert" 1
-}
